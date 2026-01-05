@@ -44,3 +44,13 @@ For each record:
 
 ### 4) Aggregate into KPI-ready tables
 A summary view aggregates revision behavior by
+
+### 5) Tableau Workbook
+The Tableau workbook file .twbx is included for reproducibility.  
+GitHub displays Tableau workbooks as raw XML and cannot render them visually.
+
+To view the visualizations:
+- See screenshots in the .twbx folder
+- Use the interactive Tableau Public link below
+- https://public.tableau.com/views/PediatricCOVID-19HospitalizationRatesOverTime/PediatricCOVID-19HospitalizationTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
